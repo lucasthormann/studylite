@@ -8,3 +8,5 @@
 * Search
 * User Login
 * Flash Messages
+* User Logout
+* Restricted Pages
