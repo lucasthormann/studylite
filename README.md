@@ -10,3 +10,4 @@
 * Flash Messages
 * User Logout
 * Restricted Pages
+* Message Functionality
