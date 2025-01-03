@@ -11,3 +11,4 @@
 * User Logout
 * Restricted Pages
 * Message Functionality
+* Activity Feed Functionality
