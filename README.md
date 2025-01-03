@@ -12,3 +12,4 @@
 * Restricted Pages
 * Message Functionality
 * Activity Feed Functionality
+* User Profile Functionality
