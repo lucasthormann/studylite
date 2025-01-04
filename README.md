@@ -13,3 +13,4 @@
 * Message Functionality
 * Activity Feed Functionality
 * User Profile Functionality
+* Handles Static Files
