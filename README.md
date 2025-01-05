@@ -14,3 +14,4 @@
 * Activity Feed Functionality
 * User Profile Functionality
 * Handles Static Files
+* Theme Installation Using HTML/CSS/Javascript Template
